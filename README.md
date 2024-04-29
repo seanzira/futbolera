@@ -1,6 +1,6 @@
-# Task 20: Capstone Project - Javascript Fundamentals
+# Task 24: Version Control - Deployment
 ## Description 
-I've created a football website which focuses on Zinedine Zidane's career and accolades. The intended target market is anybody with an interest in football, and what this webpage does, is inform the viewer about Zidane and what he accomplished in the Galacticos Era.
+I was tasked with uploading any static website of my creation onto gitHub and I chose to submit this website which focuses on Zinedine Zidane's career and accolades. The intended target market is anybody with an interest in football, and what this webpage does, is inform the viewer about Zidane and what he accomplished in the Galacticos Era.
 
 ## How to access the project
 
