@@ -20,6 +20,8 @@ In order to use this website correctly, you can scroll to the bottom to view all
 
 This webpage focuses on the author of the webpage (Sean Zira). This is shown by the brief summary as well the photo of the author next to the summary. This page also contains a "hide/show" button, which when clicked toggles the visibility of the summary. There is also a "save for later" button which you will see throughout the webpage. This button allows you to store the information above the button for you to view later on the "save for later" page. There is also a "like" button which when clicked increments the number next to it, once, to indicate that it has been liked, but when clicked again, will revert back to 0, indicating that the content above it has been unliked. The last thing to take note of on this page is the menu button located on the top righthand side of the page. This is similar to the one you would've noticed on the landing page.
 
+![Alt text](https://github.com/seanzira/futbolera/blob/main/website/running-website-2.png)
+
 ### 2. Webpage Sources
 
 This page contains the sources used to create the content written within this webpage. Below the sources, you will find a "start animation" button which fades out and fades in the "here" hyperlink. Next to that button, you'll find a like button and on the top righthand side of the page, you'll find a menu.
